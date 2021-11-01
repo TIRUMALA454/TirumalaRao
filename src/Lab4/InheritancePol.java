@@ -1,4 +1,4 @@
-package Lab4;
+package lab4;
 
 import java.lang.Math;
 public class InheritancePol {

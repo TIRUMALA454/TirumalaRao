@@ -1,4 +1,4 @@
-package Lab3;
+package lab3;
 import java.util.Scanner;
 public class PositiveString {
 		public static void main(String[] args) {
